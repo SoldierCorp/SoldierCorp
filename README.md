@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-My name is Edgardo and I am a Full-stack web and mobile developer who loves programming and sharing knowledge as well.
+My name is Edgardo.
 
-- 🔭 I’m currently working on a couple of websites and a YouTube channel where I will teach about how to become a Freelancer but in Spanish.
-- 📫 Feel free to contact me if you need any help.
+- I am a Full-stack web and mobile developer with a strong background to adapt to new technologies/tools.
+- I really love programming and sharing knowledge as well, kind of a passion.
+- I am specialized in Front-end Pixel Perfect which means I love CSS 💚
+
+
+I am Currently contributing to Open-source projects in #Hacktoberfest.
+
+📫 Feel free to contact me if you need any help.
