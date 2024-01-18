@@ -2,11 +2,10 @@
 
 My name is Edgardo Ramírez León.
 
-I am a Full-stack Web and React Native developer with +11 years of experience building high-quality applications.
+Highly skilled Senior Software Engineer with over 12 years of experience in full-stack web and mobile development.
 
-Skilled in turning ideas into real projects by creating the architecture for the back-end, front-end, and mobile app entirely by my own.
+A team-oriented professional with strong technical leadership, adept at solving complex technology problems with creative architectural solutions.
 
-Great eye for design to make an exact interface using the Pixel-perfect technique.
+I have a great eye for design, producing precise interfaces using the Pixel Perfect technique.
 
-
-📫 Feel free to contact me if you need any help.
+📫 Feel free to contact me if you need any help :)
